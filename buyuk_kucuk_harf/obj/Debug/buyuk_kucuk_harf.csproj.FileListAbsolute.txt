@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\odev_son\buyuk_kucuk_harf\buyuk_kucuk_harf\bin\Debug\buyuk_kucuk_harf.exe.config
+C:\Users\muhammed\Desktop\odev_son\buyuk_kucuk_harf\buyuk_kucuk_harf\bin\Debug\buyuk_kucuk_harf.exe
+C:\Users\muhammed\Desktop\odev_son\buyuk_kucuk_harf\buyuk_kucuk_harf\bin\Debug\buyuk_kucuk_harf.pdb
+C:\Users\muhammed\Desktop\odev_son\buyuk_kucuk_harf\buyuk_kucuk_harf\obj\Debug\buyuk_kucuk_harf.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\odev_son\buyuk_kucuk_harf\buyuk_kucuk_harf\obj\Debug\buyuk_kucuk_harf.exe
+C:\Users\muhammed\Desktop\odev_son\buyuk_kucuk_harf\buyuk_kucuk_harf\obj\Debug\buyuk_kucuk_harf.pdb
